@@ -8,8 +8,8 @@ Show-casing three uses of delegates in game development.
 
 ## Prerequisites
 
-Any Unity5 copy should work fine.
-Basic knowledge of C#.
+-Any Unity5 copy should work fine. <br />
+-Basic knowledge of C#.
 
 ## Built With
 
