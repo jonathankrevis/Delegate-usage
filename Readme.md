@@ -2,7 +2,11 @@
 
 Show-casing three uses of delegates in game development.
 
-### Prerequisites
+## View
+
+[video of the uses](https://www.youtube.com/watch?v=ZGAocWoPs4A&feature=youtu.be)
+
+## Prerequisites
 
 Any Unity5 copy should work fine.
 Basic knowledge of C#.
@@ -17,8 +21,7 @@ Free to use it however you want.
 
 ## Acknowledgments
 
-I don't own and of these assets:
-
+I don't own and of these assets used in the project:
 
 [3D LowPoly HeroCharacter Mobile-ready](https://assetstore.unity.com/packages/3d/characters/3d-lowpoly-herocharacter-mobile-ready-84232)
 
