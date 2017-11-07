@@ -20,17 +20,12 @@ Free to use it however you want.
 I don't own and of these assets:
 
 
-3D LowPoly HeroCharacter Mobile-ready
-https://assetstore.unity.com/packages/3d/characters/3d-lowpoly-herocharacter-mobile-ready-84232
+[3D LowPoly HeroCharacter Mobile-ready](https://assetstore.unity.com/packages/3d/characters/3d-lowpoly-herocharacter-mobile-ready-84232)
 
-Free Grunt
-https://assetstore.unity.com/packages/3d/characters/humanoids/mini-legion-grunt-handpainted-98187
+[Free Grunt](https://assetstore.unity.com/packages/3d/characters/humanoids/mini-legion-grunt-handpainted-98187)
 
-RTS Mini Legion Lich
-https://assetstore.unity.com/packages/3d/characters/humanoids/mini-legion-lich-handpainted-91497
+[RTS Mini Legion Lich](https://assetstore.unity.com/packages/3d/characters/humanoids/mini-legion-lich-handpainted-91497)
 
-Cube Space – Effects
-https://assetstore.unity.com/packages/vfx/particles/cube-space-effects-free-version-74319
+[Cube Space – Effects](https://assetstore.unity.com/packages/vfx/particles/cube-space-effects-free-version-74319)
 
-RTS Mini Legion Rock Golem
-https://assetstore.unity.com/packages/3d/characters/humanoids/mini-legion-rock-golem-handpainted-94707
+[RTS Mini Legion Rock Golem](https://assetstore.unity.com/packages/3d/characters/humanoids/mini-legion-rock-golem-handpainted-94707)
